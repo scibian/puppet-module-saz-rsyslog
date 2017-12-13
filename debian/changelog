@@ -1,3 +1,9 @@
+puppet-module-saz-rsyslog (5.0.0-0sci8u1) scibian8; urgency=low
+
+  * Scibian8 rebuilt
+
+ -- Benoit Boccard <benoit-externe.boccard@edf.fr>  Wed, 13 Dec 2017 15:38:44 +0100
+
 puppet-module-saz-rsyslog (5.0.0-1scibian1~bpo8+1) calibre9; urgency=medium
 
   [ Saz ]
