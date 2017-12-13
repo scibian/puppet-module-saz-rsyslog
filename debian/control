@@ -1,10 +1,12 @@
 Source: puppet-module-saz-rsyslog
 Section: admin
 Priority: optional
-Maintainer: Benoit Boccard <benoit-externe.boccard@edf.fr>
+Maintainer: Scibian Project <packaging@scibian.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 Homepage: https://forge.puppet.com/saz/rsyslog
+Vcs-Browser: https://github.com/scibian/puppet-module-saz-rsyslog
+Vcs-Git: https://github.com/scibian/puppet-module-saz-rsyslog.git
 
 Package: puppet-module-saz-rsyslog
 Architecture: all
