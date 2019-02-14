@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/scibian/puppet-module-saz-rsyslog.git
 
 Package: puppet-module-saz-rsyslog
 Architecture: all
-Depends: ${misc:Depends}, puppet-common, puppet-module-puppetlabs-stdlib
+Depends: ${misc:Depends}, puppet4 | puppet-common, puppet-module-puppetlabs-stdlib
 Description: Puppet module rsyslog
  Puppet lets you centrally manage every important aspect of your system
  using a cross-platform specification language that manages all the
